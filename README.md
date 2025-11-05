@@ -8,14 +8,14 @@ I'm a passionate Software Developer from Brazil
 
 **About me**
 
-- 💼 Software developer at Rebase
+- 💼 Software developer at GFT
 
 - ❤️ I love programming, and keeping up with everything about new technologies
 
 <div align="center">
-  <img style="height:160px" alt="MatheusZed" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusZed&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img style="height:160px" alt="MatheusdOliveiraS" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusdOliveiraS&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 
-  <img style="height:160px" alt=MatheusZed src="https://github-readme-stats.vercel.app/api?username=MatheusZed&theme=dark&show_icons=true&title_color=d1830f&border_radius=3" />
+  <img style="height:160px" alt=MatheusdOliveiraS src="https://github-readme-stats.vercel.app/api?username=MatheusdOliveiraS&theme=dark&show_icons=true&title_color=d1830f&border_radius=3" />
 </div>
 
 <br />
